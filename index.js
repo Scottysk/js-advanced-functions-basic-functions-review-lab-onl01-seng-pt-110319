@@ -7,7 +7,6 @@ function mondayWork(work = "go to the office") {
 }
 
 function wrapAdjective(flair = "*") {
-  let string = flair;
   return function ()
   
 }
