@@ -12,3 +12,6 @@ function wrapAdjective(flair = "*") {
   }
 }
 
+const calculator = {
+  
+}
