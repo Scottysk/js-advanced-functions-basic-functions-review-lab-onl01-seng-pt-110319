@@ -9,9 +9,16 @@ function mondayWork(work = "go to the office") {
 function wrapAdjective(flair = "*") {
   return function(adj = "special") {
   return `You are ${flair}${adj}${flair}!`;
-  }
+  };
 }
 
 const Calculator = {
+  add: function(num1, num2) {
+    return num1 + num2;
+  }
   
-}
+  
+  
+  
+  
+};
